@@ -1,0 +1,21 @@
+.roles {
+    padding: 20px;
+}
+
+.roles h1 {
+    color: #35424a;
+}
+
+.roles ul {
+    list-style: none;
+    padding: 0;
+}
+
+.roles li {
+    background: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
